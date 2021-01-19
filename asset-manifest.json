@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/static/js/main.113ed71b.chunk.js",
+    "main.js.map": "/static/js/main.113ed71b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.caa63145.js",
+    "runtime-main.js.map": "/static/js/runtime-main.caa63145.js.map",
+    "static/js/2.1e61784d.chunk.js": "/static/js/2.1e61784d.chunk.js",
+    "static/js/2.1e61784d.chunk.js.map": "/static/js/2.1e61784d.chunk.js.map",
+    "static/js/3.17ba0bac.chunk.js": "/static/js/3.17ba0bac.chunk.js",
+    "static/js/3.17ba0bac.chunk.js.map": "/static/js/3.17ba0bac.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.1e61784d.chunk.js.LICENSE.txt": "/static/js/2.1e61784d.chunk.js.LICENSE.txt",
+    "static/media/Apricots.15e7a2c7.jpg": "/static/media/Apricots.15e7a2c7.jpg",
+    "static/media/customerpage.18ab9829.jpg": "/static/media/customerpage.18ab9829.jpg",
+    "static/media/farmerpage.c5a4a80d.png": "/static/media/farmerpage.c5a4a80d.png",
+    "static/media/signuppage.df97c317.jpg": "/static/media/signuppage.df97c317.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.caa63145.js",
+    "static/js/2.1e61784d.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.113ed71b.chunk.js"
+  ]
+}
